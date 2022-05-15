@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class>
+	<Fruit>
+		<ID>
+			1
+		</ID>
+		<Name>
+			tin
+		</Name>
+		<Price>22</Price>
+	</Fruit>
+
+
+
+	<Fruit>
+		<ID>1223</ID>
+		<Name>tind</Name>
+		<Price>22.0</Price>
+	</Fruit>
+	<Fruit>
+		<ID>1223</ID>
+		<Name>tind2</Name>
+		<Price>22.0</Price>
+	</Fruit>
+</class>
